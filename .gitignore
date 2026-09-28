@@ -1,0 +1,12 @@
+# Backups & temporary files
+*.bak
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local binary test artifacts
+muse-bin*
+.muse*
